@@ -3,7 +3,7 @@
 ## MRI Image
 ![image alt](https://github.com/Jashed-20/medical-image-segmentation/blob/76349419b79ed6201797bd27046828b1bfbaff3c/images/TCGA_CS_4941_19960909_11.jpg)
 ## Mask Image
-![image alt]([images/TCGA_CS_4941_19960909_11_mask.tif](https://github.com/Jashed-20/medical-image-segmentation/blob/1e02d552056644e98c84d64cfbe69b1874fb1d5c/images/TCGA_CS_4941_19960909_11_mask.jpg))
+![image alt](https://github.com/Jashed-20/medical-image-segmentation/blob/5d13ba684418bf38fc7b8280e21bee37e5e4d1dd/images/TCGA_CS_4941_19960909_11_mask.jpg)
 
 
 ##  LGG MRI Segmentation Dataset
